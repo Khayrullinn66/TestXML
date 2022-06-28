@@ -1,0 +1,3 @@
+# Project exclude paths
+/com/src/main/java/out/
+/com/target/
